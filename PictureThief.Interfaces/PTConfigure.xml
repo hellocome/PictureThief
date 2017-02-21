@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PTConfigure SaveRoot="">
+  <ConfigureMain Name="MyWardrobe">
+    <ConfigureGroup Name="Sale">
+      <ConfigureItem Name="Clothes" Update="True" Url="http://www.my-wardrobe.com/sale/product/clothes?viewall"/>
+    </ConfigureGroup>
+
+    <ConfigureGroup Name="Womenswear">
+      <ConfigureItem Name="Accessories" Update="True" Url="http://www.my-wardrobe.com/womenswear/designer-accessories?viewall"/>
+    </ConfigureGroup>
+  </ConfigureMain>
+
+  <ConfigureMain Name="Reiss">
+    <ConfigureGroup Name="Sale">
+      <ConfigureItem Name="Men" Update="True" Url="http://www.reiss.com/eu/mens/reiss-sale/view-all/"/>
+    </ConfigureGroup>
+  </ConfigureMain>
+</PTConfigure>
